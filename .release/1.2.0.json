@@ -1,0 +1,18 @@
+{
+  "version": "1.2.0",
+  "source_tree": "e95294674bc23c5280d2e3cb2a7fab07b48ed29e",
+  "source_commit": "a9f976b23f0556849ef0963151748a1e83869b08",
+  "release_notes": "Fleet Duel adds an original two-player naval strategy game to FamilyWire: private 10 x 10 fleet setup, click or drag placement, rotate and randomize, deliberate select-and-Fire turns, clear hit/miss/sunk results, saved state, safe reconnect, resignation and agreed rematches.\n\nHidden fleets stay private to their owner until a ship sinks or a victory reveals both fleets to the two participants. Closing the panel keeps the game. Chat remains the default; invite identities, private learning and existing 48-hour retention remain.\n\nValidation: all 95 tests passed on Windows and macOS CI. Windows installer and Intel/Apple Silicon Mac packages passed native startup checks. The matching persistent relay is deployed and healthy. Tested source tree: e95294674bc23c5280d2e3cb2a7fab07b48ed29e; merged source: a9f976b23f0556849ef0963151748a1e83869b08.\n\nUpdate both players before inviting Fleet Duel. Windows: Updates > Check for updates > Download update > Restart & install. Mac: download the ZIP for Intel (x64) or Apple Silicon (arm64). These Mac archives are unsigned; automatic Mac updates still require signing.",
+  "artifacts": [
+    {
+      "name": "FamilyWire-macOS",
+      "url": "https://sdmntprcentralus.oaiusercontent.com/files/00000000-ebc8-81f5-8dce-706f4d3acfc5/raw?se=2026-10-01T03%3A48%3A12Z&sp=r&sv=2026-02-06&sr=b&scid=87b9a879-9dbf-47fa-be82-cbc798876a2b&skoid=78501c7f-f65d-4e8d-9110-bed29e1beb41&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-09-30T23%3A29%3A35Z&ske=2026-10-01T23%3A29%3A35Z&sks=b&skv=2026-02-06&sig=ckmCHg0OU1Hbn6fbPaYEL0id3cwMtcbzxLimI6AdwYc%3D",
+      "sha256": "2c74cb6f4c747f919a75d5b297f9711bde0a7afe1a8a75bdebe7221295e49e94"
+    },
+    {
+      "name": "FamilyWire-Windows",
+      "url": "https://sdmntprcentralus.oaiusercontent.com/files/00000000-1ffc-81f5-92e0-15e848bccd32/raw?se=2026-10-01T03%3A48%3A01Z&sp=r&sv=2026-02-06&sr=b&scid=87b9a879-9dbf-47fa-be82-cbc798876a2b&skoid=78501c7f-f65d-4e8d-9110-bed29e1beb41&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-10-01T03%3A32%3A09Z&ske=2026-10-02T03%3A32%3A09Z&sks=b&skv=2026-02-06&sig=1kZsjEuAlne7OVMWNFkJk9hdv1SsJ%2BDrEOv6N6qUwKk%3D",
+      "sha256": "2787c1c9dc343a9da0f1cc67f0ab410a6c585852b02b8a4f87109a493a540ee4"
+    }
+  ]
+}
